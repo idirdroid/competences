@@ -1,0 +1,13 @@
+I.Activité Front
+1. Maquetter
+2. Interface statiques
+3. Interfaces dynamiques
+4. CMS
+
+------------------------------
+
+II.Activité Back
+5.Crééer base
+6. Développer composants
+7. Développer backend
+8. Customiser CMS
